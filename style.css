@@ -1,0 +1,32 @@
+body {
+    margin-top: 0;
+}
+#app {
+   margin: 0 auto;
+}
+
+#app button {
+    margin-top: 10px;
+}
+.title {
+    text-align: center;
+    background-color: blue;
+    color: #fff;
+    margin-top: 0;
+}
+.donestyle {
+    text-decoration: line-through;
+    color: lightgray;
+}
+
+.todo_margin {
+    margin: 10px 0 auto 0;
+}
+
+input {
+    padding: 0;
+    border: 1px solid  #777;
+}
+.btn_margin {
+    margin-left: 15px;
+}
